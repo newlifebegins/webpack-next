@@ -1,0 +1,45 @@
+{
+  "name": "webpack-next",
+  "version": "1.0.0",
+  "description": "webpack package",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newlifebegins/webpack-next.git"
+  },
+  "keywords": [
+    "webpack",
+    "package",
+    "npm"
+  ],
+  "author": "wangwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newlifebegins/webpack-next/issues"
+  },
+  "homepage": "https://github.com/newlifebegins/webpack-next#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "echarts": "^4.2.0-rc.1",
+    "font-awesome": "^4.7.0",
+    "highcharts": "^6.1.4",
+    "jquery": "^3.3.1",
+    "webpack": "^4.20.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "style-loader": "^0.23.0",
+    "url-loader": "^1.1.1"
+  }
+}
