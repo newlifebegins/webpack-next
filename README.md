@@ -1,5 +1,4 @@
 # Bootstrap 4, Font Awesome 4, Webpack 4 Starter.
-[![Build Status](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master)](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter) [![Greenkeeper badge](https://badges.greenkeeper.io/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg)](https://greenkeeper.io/)
 
 
 Created to make your life super easy.
@@ -16,21 +15,16 @@ Using battle-tested solutions. Features:
 ## Instructions
 
 ```
-git clone git@github.com:Kuzirashi/bootstrap-font-awesome-webpack-starter.git
+git clone git@github.com:newlifebegins/webpack-next.git
 
-cd bootstrap-font-awesome-webpack-starter
+cd webpack-next
 
 npm run dev
 ```
 
 ## Author
 
-Created by Daniel Kmak.
-
-<a href="https://stackoverflow.com/users/2166409/daniel-kmak">
-  <img src="https://stackoverflow.com/users/flair/2166409.png" width="208" height="58" alt="profile for Daniel Kmak at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-    title="profile for Daniel Kmak at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Created by wangwei.
 
 ## License
 
